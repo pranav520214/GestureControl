@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+calibration.json
+models/*.task
+*.log
+.env
+.env.*
+!.env.example
+*.pem
+*.key
